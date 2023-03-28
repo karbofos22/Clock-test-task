@@ -8,4 +8,7 @@
 
 https://user-images.githubusercontent.com/78163557/228211881-45cb0fba-9ca9-4eac-9521-94f79e1b9f53.mp4
 
+
+
+
 [Clock.zip](https://github.com/karbofos22/Clock-test-task/files/11088408/Clock.zip)
